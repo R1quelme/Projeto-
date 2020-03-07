@@ -17,13 +17,13 @@ Projeto de PHP + MySQL com layout básico, com:
 
 Crud do administardor: 
 :! [Imagem do Crud ADM] 
-(https://prints/capturaADM.png)
+(https://octodex.github.com/prints/capturaADM.png)
 
 Crud do editor: 
 :! [Imagem do Crud teste] 
-(https://prints/capturaTESTE.png)
+(https://octodex.github.com/capturaTESTE.png)
 
 Crud detalhes: 
 :! [Imagem do Crud detalhes] 
-(https://prints/capturaTESTE.png)
+(https://octodex.github.com/prints/capturaTESTE.png)
 
