@@ -5,7 +5,7 @@ Projeto de PHP + MySQL com layout básico, com:
   - adm
   - editor
 
-- Funçoes de criar;
+- Funçoes da tabela para o usuário;
   - criar
   - editar  
   - excluir
