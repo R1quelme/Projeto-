@@ -19,6 +19,9 @@ Crud do administardor:
 :! [Imagem do Crud ADM] 
 (https://octodex.github.com/prints/capturaADM.png)
 
+### Crud do admnistrador 
+![Print](https://raw.githubusercontent.com/R1quelme/Projeto-estudo/master/prints/capturaADM.png)
+
 Crud do editor: 
 :! [Imagem do Crud teste] 
 (https://octodex.github.com/capturaTESTE.png)
