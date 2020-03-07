@@ -17,7 +17,7 @@ Projeto de PHP + MySQL com layout básico, com:
 
 Crud do administardor: 
 :! [Imagem do Crud ADM] 
-(https:prints/capturaADM.png)
+(https://prints/capturaADM.png)
 
 Crud do editor: 
 :! [Imagem do Crud teste] 
