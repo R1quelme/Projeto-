@@ -1,0 +1,112 @@
+body{
+    background-color: #ddd;
+    font-family: Tahoma;
+}
+
+header{
+    font-size: 12px;
+    text-align: right;
+}
+
+div#corpo {
+    width: 800px;
+    margin: auto;
+    height: 100%;
+    padding: 20px;
+    background-color: #fff;
+    box-shadow: 0px 0px 30px #777;
+}
+
+p.pequeno {
+	font-size: 10pt;
+	text-align: right;
+}
+
+form#busca{
+    font-size:12px;
+    text-align: right;
+}
+
+table.listagem{
+    width: 100%;
+    text-align: left;
+    border-collapse: collapse; /*esta fazendo com que as linhas se grudem */
+}
+
+table.listagem tr{
+    height: 50px;
+}
+
+table.listagem td{
+    padding: 10px; /*afasta as palavras uma da outra */
+}
+
+table.listagem tr:nth-child(even){
+    background-color: #f2f2f2; /*branco, cinza, branco, cinza*/
+}
+
+table.listagem td:nth-child(1){
+    width: 50px; /*esta mechendo no espaço do "Nome*/
+}
+
+table.listagem td:nth-child(3){
+    width: 90px;
+}
+
+table.detalhes{
+    width: 100%;
+}
+
+table.detalhes td{
+    padding: 10px; /*esta dando um espaço melhir na imagem na pagina detalhes*/
+    vertical-align: top; 
+    /* border: 1px solid black; ver a estrutura da tabela */
+}
+
+
+/*imagens*/
+img.mini{
+    width: 50px; /*coloca as imagens como icones, deixando elas pequenas e do mesmo tamanha */
+}
+
+img.full{
+    height: 400px;
+}
+
+/*Rodapé*/
+footer {
+    text-align: center;
+    font-family: Arial;
+    font-size: 12px;
+}
+
+div.sucesso{
+    padding: 7px 15px;
+    margin-bottom: 15px;
+    border-radius: 15px;
+    background-color: rgb(226, 239, 218);
+    color: rgb(74, 116, 67);
+}
+
+div.aviso{
+    padding: 7px 15px;
+    margin-bottom: 15px;
+    border-radius: 15px;
+    background-color: rgb(251, 248, 229);
+    color: rgb(134, 110, 66);
+}
+
+div.erro{
+    padding: 7px 15px;
+    margin-bottom: 15px;
+    border-radius: 15px;
+    background-color: rgb(239, 223, 222);
+    color: rgb(157, 75, 69);
+}
+
+a 
+{ 
+ text-decoration:none; 
+ color: black;
+} 
+
