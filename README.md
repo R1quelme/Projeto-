@@ -14,3 +14,16 @@ Projeto de PHP + MySQL com layout básico, com:
   - alterar meus própios dados 
   - criar novo usuário a partir de um login de adm
   - funçoes de busca para facilitar para o usúario.
+
+Crud do administardor: 
+:! [Imagem do Crud ADM] 
+(https://octodex.github.com/prints/capturaADM.png)
+
+Crud do editor: 
+:! [Imagem do Crud teste] 
+(https://octodex.github.com/prints/capturaTESTE.png)
+
+Crud detalhes: 
+:! [Imagem do Crud detalhes] 
+(https://octodex.github.com/prints/capturaTESTE.png)
+
