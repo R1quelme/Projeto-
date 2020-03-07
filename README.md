@@ -17,5 +17,6 @@ Projeto de PHP + MySQL com layout básico, com:
 
 
 ### Crud do admnistrador 
-![Screenshot](https://raw.githubusercontent.com/R1quelme/Projeto-estudo/master/prints/capturaADM.png)
+![Screenshot](https://github.com/R1quelme/Projeto-estudo/blob/master/prints/capturaADM.PNG)
+
 
