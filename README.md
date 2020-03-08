@@ -16,7 +16,7 @@ Projeto de PHP + MySQL com layout básico, com:
   - funçoes de busca para facilitar para o usúario.
 
 
-### Crud do adimnistrador 
+### Crud do administrador
 ![Screenshot](https://github.com/R1quelme/Projeto-estudo/blob/master/prints/capturaADM.PNG)
 
 ### Crud do editor
