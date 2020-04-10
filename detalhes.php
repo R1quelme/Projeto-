@@ -42,6 +42,7 @@
                     echo "<tr><td>$reg->descricao";
                 } else {
                     echo "<tr><td>Nenhum registro encontrado";
+                    // apenas fazendo um teste para o git desktop
                 }
             }
             ?>
